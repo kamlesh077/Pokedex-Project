@@ -15,11 +15,5 @@
 .controls button{
     padding: 0.5rem 1rem;
     margin-left: 1rem;
-    margin-top: 1rem;
-    border-radius: 10px;
-    border-color: black;
-}
-.controls button:hover {
-    background-color: rgb(146, 107, 107);
-    
+    margin-top: 1rem; 
 }
